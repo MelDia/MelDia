@@ -6,7 +6,7 @@ FullStack developer
 
 Soy una estudiante junior de programación, tengo conocimientos tanto en manejo de Front-end como de Back-end, esto se puede comprobar en mi repositorio.
 
-* 🌍  I'm based in Argentina (Bueno Aires)
+* 🌍  I'm based in Argentina (Buenos Aires, Capital Federal)
 * ✉️  You can contact me at [diaz.melinajimena@gmail.com](mailto:diaz.melinajimena@gmail.com)
 
 ### Skills
